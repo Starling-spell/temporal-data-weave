@@ -1,0 +1,1 @@
+Entity: DemoMachine. Date: 2026-09-01. This temporal snapshot records the machine's baseline state.
